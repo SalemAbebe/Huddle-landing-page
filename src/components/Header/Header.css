@@ -1,0 +1,8 @@
+.header {
+  background-color: black;
+  height: 45px;
+}
+.headerWrapper {
+  width: 80%;
+  display: flex;
+}

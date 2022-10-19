@@ -24,6 +24,7 @@ This is a desktop website for Huddle landing page. it is one of 16 challenges on
 
 [frontend mentor link Here](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
 
+![portfolio1](https://user-images.githubusercontent.com/80977813/196745561-ffafde27-9682-4322-8094-43b28c9bb032.png)
 ### Links
 
 - Solution URL: [https://github.com/SalemAbebe/simple-react-game]https://github.com/SalemAbebe/simple-react-game)
